@@ -1,0 +1,10 @@
+.page_color{
+    color: green;
+    
+}
+.search{
+    display: flex;
+}
+.line{
+    inline-size: auto;
+}
